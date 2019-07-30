@@ -1,0 +1,11 @@
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\bin\Debug\netcoreapp2.2\Lab12_ClassUML.deps.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\bin\Debug\netcoreapp2.2\Lab12_ClassUML.runtimeconfig.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\bin\Debug\netcoreapp2.2\Lab12_ClassUML.runtimeconfig.dev.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\bin\Debug\netcoreapp2.2\Lab12_ClassUML.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\bin\Debug\netcoreapp2.2\Lab12_ClassUML.pdb
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\obj\Debug\netcoreapp2.2\Lab12_ClassUML.csprojAssemblyReference.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\obj\Debug\netcoreapp2.2\Lab12_ClassUML.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\obj\Debug\netcoreapp2.2\Lab12_ClassUML.AssemblyInfoInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\obj\Debug\netcoreapp2.2\Lab12_ClassUML.AssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\obj\Debug\netcoreapp2.2\Lab12_ClassUML.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab12_ClassUML\Lab12_ClassUML\obj\Debug\netcoreapp2.2\Lab12_ClassUML.pdb
